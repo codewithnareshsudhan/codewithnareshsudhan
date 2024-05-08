@@ -2,7 +2,7 @@
 
 <mark>Computer Science Engineer (Developer)</mark>
 
-![](https://github.com/codewithnareshsudhan/codewithnareshsudhan/blob/main/naresh.gif)
+<img src="https://github.com/codewithnareshsudhan/codewithnareshsudhan/blob/main/naresh.gif">
 I'm a Computer Science graduate and passionate software developer based in [Your Location]. With a strong foundation in Computer Science principles and a knack for problem-solving, I thrive on turning ideas into innovative digital solutions.
 
 ---
